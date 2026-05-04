@@ -1,16 +1,11 @@
 ---
 id: "78-2022"
 number: "78/2022"
-type: "Usnesení"
 title: "Usnesení vlády o výkonu psychologické činnosti"
-institution: "Kongres San Andreas"
 effectiveFrom: "2022-02-04"
 issuedAt: "2022-02-01"
 lastUpdated: "2022-02-01"
 status: "active"
-sourceUrl: "https://leosight.cz/forum/topic/9104"
-headerImage: "https://cdn.leosight.cz/img/KONGRES_4549_1640038579.png"
-signatureImage: "https://cdn.leosight.cz/img/SigPeter_19_1642355937.png"
 ---
 
 # KONGRES SAN ANDREAS
