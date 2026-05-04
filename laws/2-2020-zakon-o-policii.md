@@ -25,14 +25,23 @@ status: "active"
 **Tento zákon upravuje:**
 
 Novela zákona č. 35/2021 ze dne 20.04.2021
+
 Novela zákona č. 41/2021 ze dne 12.07.2021
+
 Novela zákona č. 48/2021 ze dne 30.07.2021
+
 Novela zákona č. 71/2021 ze dne 16.01.2022
+
 Novela zákona č. 93/2022 ze dne 06.09.2022
+
 Novela zákona č. 156/2023 ze dne 08.11.2023
+
 Novela zákona č. 184/2024 ze dne 09.04.2024
+
 Novela zákona č. 187/2024 ze dne 29.04.2024
+
 Novela zákona č. 200/2024 ze dne 13.07.2024
+
 Novela zákona č. 264/2025 ze dne 19.11.2025
 
 ---
