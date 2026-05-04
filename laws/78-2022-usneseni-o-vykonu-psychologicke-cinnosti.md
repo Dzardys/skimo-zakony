@@ -19,8 +19,6 @@ signatory:
 amendments: []
 ---
 
-> (( Veškeré informace v tomto dokumentu jsou fiktivní a týkají se pouze herního světa! ))
-
 # KONGRES SAN ANDREAS
 
 ![Kongres San Andreas](https://cdn.leosight.cz/img/KONGRES_4549_1640038579.png)
