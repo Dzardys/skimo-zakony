@@ -52,5 +52,3 @@ status: "active"
 
 **Ing. Cole Peterson, v.r.**  
 předseda Kongresu San Andreas  
-
-1. února 2022
